@@ -39,4 +39,4 @@
 
 ***白色树脂打印后正面需要自己上色***
 
-<img src="C:\Users\sjtu3\AppData\Roaming\Typora\typora-user-images\image-20211225121058910.png" alt="image-20211225121058910" style="zoom: 67%;" />
+![image-20211225121304506](https://s2.loli.net/2021/12/25/AMiUST12kNR7qLZ.png)
