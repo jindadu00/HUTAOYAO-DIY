@@ -1,8 +1,11 @@
 # HUTAOYAO-DIY
+
 ### 此项目包括
 
 - 胡桃摇STL模型
 - 成品展示
+
+
 
 ***精度要求较高，可以委托未来工厂代工打印***
 
@@ -35,3 +38,5 @@
 - 丙烯颜料
 
 ***白色树脂打印后正面需要自己上色***
+
+<img src="C:\Users\sjtu3\AppData\Roaming\Typora\typora-user-images\image-20211225121058910.png" alt="image-20211225121058910" style="zoom: 67%;" />
